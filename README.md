@@ -38,7 +38,7 @@ For the Tableau portion of this project we created several visualizations based 
 * Visualization 4 - We show trends in average income per year and we a filter for state and year.
 
 Tabluea Public Links: <br>
-https://public.tableau.com/app/profile/elton.cummings.iii/viz/shared/XMNYPGBF5
+https://public.tableau.com/views/Percapitabachelorcomparison/Sheet72?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 https://public.tableau.com/app/profile/prak.bagavatula/viz/Dataframe/Sheet5
 
