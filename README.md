@@ -27,7 +27,7 @@ The R2 of .80 indicates that the model explains about 80% of the variability of 
 
 <img width="302" alt="last s" src="https://user-images.githubusercontent.com/100292828/187720027-e078254f-a8f2-4d47-829e-fd2d26179c66.png">
 
-Tableau:
+Tableau: <br>
 For the Tableau portion of this project we created several visualizations based on our dataset.
 * Visualization 1- We have a map of the country and it shows average income and percentage of bachelors by state per year. We also added a filter so you can change which year you want to see and the color of the state changes accordingly.
 
