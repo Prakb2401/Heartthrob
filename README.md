@@ -51,6 +51,7 @@ https://ncses.nsf.gov/indicators/states/indicator/bachelors-degree-holders-per-2
 ### Our Team <br>
 Prakhyath Bagavatula : https://github.com/Prakb2401
 Christian Tourteau : https://github.com/Christ1129
+Elton Cummings III : https://github.com/Tr3Yday30
 
 
 
