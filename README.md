@@ -2,7 +2,7 @@
 
 ### Background and Goal:
 The relationship between income and Education level is well established but remains sometimes poorly understood
-Our goal on this project is to Use Machine Learning and analyze the relationship between income per Capita on the number of  Bachelors percentage and postsecondary degree holding by State in the US
+Our goal on this project is to Use Machine Learning and analyze the relationship between income per Capita on the number of  Bachelors percentage and postsecondary degree holding by State in the US. Using Machine Learning to analyze the relationship between income per Capita on the number of Bachelors percentage and postsecondary degree holding by State in the US
 
 ### Variables for Exploration: 
 Per Capita Income (by State), Bachelor's degree Percentage and post secondary percentage (by State)
