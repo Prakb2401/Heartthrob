@@ -49,9 +49,10 @@ https://apps.bea.gov/iTable/iTable.cfm?reqid=70
 https://ncses.nsf.gov/indicators/states/indicator/bachelors-degree-holders-per-25-44-year-olds 
 
 ### Our Team <br>
-Prakhyath Bagavatula : https://github.com/Prakb2401
-Christian Tourteau : https://github.com/Christ1129
-Elton Cummings III : https://github.com/Tr3Yday30
+Prakhyath Bagavatula : https://github.com/Prakb2401 <br>
+Christian Tourteau : https://github.com/Christ1129 <br>
+Elton Cummings III : https://github.com/Tr3Yday30 <br>
+Phil Faulkner : https://github.com/phfaulkner
 
 
 
